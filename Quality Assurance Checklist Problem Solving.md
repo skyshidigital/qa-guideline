@@ -1,4 +1,4 @@
-QA Checklist Problem Solving
+Quality Assurance Checklist Problem Solving
 ============================
 Berikut checklist problem solving mengenai Quality Assurance yang terjadi per kasus dengan tujuan sebagai referensi Quality Assurance agar meminimalisir pengulangan permasalahan yang terjadi.
 
